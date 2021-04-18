@@ -1,0 +1,105 @@
+
+body {
+	margin: 10;
+	padding: 10;
+	font-family: Arial, Helvetica, sans-serif;
+  }
+
+  /*body {
+	background: linear-gradient(black, white);
+  }
+  You can also use radial gradients:
+  
+  body {
+	background: radial-gradient(circle, black, white);
+  }
+*/
+
+fieldset
+{
+	margin: 10;
+	padding: 10;
+	 width: 33%;
+	 height: 90%; 
+	 text-align: center; 
+	 background-color: rgb(240, 243, 240); 
+	 color: white;
+	 border: 10 solid rgb(8, 8, 8) solid;
+	 background-image: url('images/zoo2.png') ;
+	 background-attachment: fixed;
+	 background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.fieldset_home_page
+{
+	width: 33%;
+	height: 90%; 
+	 text-align: center; 
+	 background-color: rgb(237, 243, 236); 
+	 color: white;
+	 border: 10 solid rgb(110, 8, 8) solid;
+	    width: 250px;
+		height: 110px;
+		text-align: justify;
+		
+		overflow: auto;
+}
+
+#authentification{
+	text-transform: uppercase; 
+	color:white; 
+	background-color: blue;
+	font-size: 40px;
+	text-decoration: underline;
+}
+
+input[type=submit] {
+  width: 150px;
+  height: 40px;
+  padding: 5px;
+  margin: 10px;
+  size: 20px;
+  font-size: 20px;
+  background-color: red;
+  color: white;
+}
+label {
+  width: 45%;
+  display: inline-block;
+  vertical-align: top;
+  margin: 10px;
+  padding: 10px;
+  background-color: aliceblue;
+  color: black;
+}
+input {
+  width: 460px;
+  height: 320px;
+}
+
+label{
+
+	text-transform: uppercase; 
+	color: black;
+	font-size: 18px;
+	text-transform: uppercase;
+}
+
+input{
+	width: 78%;
+	height: 35px;
+	
+}
+
+input[submit]{
+	width: 50%;
+	height: 100%;
+	text-transform: uppercase;
+}
+
+.td1{
+	width: 50%;
+}

@@ -1,0 +1,92 @@
+
+
+fieldset
+{
+	 width: 65%;
+	 height: 100%; 
+	 text-align: center; 
+	 background-color: rgb(9, 161, 207); 
+	 color: white;
+	 border: 2 white solid;
+}
+
+
+#authentification{
+	text-transform: uppercase; 
+	color:white; 
+	background-color: blue;
+	font-size: 40px;
+}
+
+input[type=submit] {
+  width: 195px;
+  height: 50px;
+  padding: 7px;
+  margin: 7px;
+  size: 23px;
+  font-size: 25px;
+  background-color: red;
+  color: white;
+  font-weight:bold ;
+}
+
+.button {
+	width: 200px;
+  height: 55px;
+  padding: 7px;
+  margin: 7px;
+  size: 23px;
+  font-size: 25px;
+  background-color: red;
+  color: white;
+  font-weight:bold ;
+  }
+  
+  input[type=text] {
+	text-align: left;
+	width: 195px;
+	height: 50px;
+	padding: 3px;
+	margin: 3px;
+	size: 14px;
+	font-size: 14px;
+	background-color: rgb(235, 230, 230);
+	/*color: rgb(14, 13, 13);*/
+	font-weight:bold ;
+  }
+
+label {
+  width: 260px;
+  display: inline-block;
+  vertical-align: top;
+  margin: 10px;
+  padding: 10px;
+  text-transform: uppercase;
+}
+input {
+  /*width: 400px;
+  height: 300px;*/
+}
+
+label{
+
+	text-transform: uppercase; 
+	color:white; 
+	font-size: 24px;
+}
+
+input{
+	/*width: 70%;*/
+	height: 30px;
+	
+}
+
+input[submit]{
+	/*width: 50%;
+	height: 100%;*/
+	text-transform: uppercase;
+}
+
+.td1{
+	width: 50%;
+}
